@@ -1,4 +1,4 @@
-![](https://github.com/Ankou-B/Ankou-B/blob/main/github%20bio%20image.png)
+![](https://github.com/Ankou-B/Ankou-B/blob/main/github%20bio%20image2.png)
 
 ## 🇫🇷 Français
 Je suis un lycéen en terminale, j'aime bien les technologies un peu rétro et j'essaie de me perfectionner en électronique et en informatique pour en faire revivre certaines.
