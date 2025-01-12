@@ -1,7 +1,5 @@
 ![](https://github.com/Ankou-B/Ankou-B/blob/main/github%20bio%20image.png)
 
-# Bienvenue sur mon profil ! / Welcome to my profile!
-
 ## 🇫🇷 Français
 Je suis un lycéen en terminale, j'aime bien les technologies un peu rétro et j'essaie de me perfectionner en électronique et en informatique pour en faire revivre certaines.
 
